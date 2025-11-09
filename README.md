@@ -37,7 +37,7 @@ Analysis Approach:
 8. Long-Term Loyalty Issues: A notable peak in attrition is also observed at 10 years of service, potentially indicating burnout or seeking new challenges after a long tenure.
 
 <img width="1288" height="237" alt="Image" src="https://github.com/user-attachments/assets/f920ca06-edb1-495f-8086-ab8a248c2b01" />
-<<img width="1305" height="525" alt="Image" src="https://github.com/user-attachments/assets/4449b597-357b-43e3-b3a3-bab6ac1c75d0" />
+<img width="1305" height="400" alt="Image" src="https://github.com/user-attachments/assets/4449b597-357b-43e3-b3a3-bab6ac1c75d0" />
    
 # 🧠Skills Gained
 Through this case study, I gained hands-on experience in:
