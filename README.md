@@ -40,9 +40,9 @@ Analysis Approach:
 # 🧠Skills Gained
 Through this case study, I gained hands-on experience in:
 
-1. **Data Cleaning** – removing duplicates (EmpID), replacing values (BusinessTravel), and checking Data Type. <br>
+1.**Data Cleaning** – removing duplicates (EmpID), replacing values (BusinessTravel), and checking Data Type. <br>
 2.**Measure Creation** – Calculating critical business metrics like Attrition Rate (Total Attrition/Total Employees). <br>
-3. **Calculated Column** Creation – Implementing AttritionCount for card visuals, requiring data type conversion from Text to Whole Number. <br>
+3.**Calculated Column** Creation – Implementing AttritionCount for card visuals, requiring data type conversion from Text to Whole Number. <br>
 4.**Data Transformation** – Standardizing categorical data values, specifically replacing TravelRarely with Travel_Rarely. <br>
 5.**Key Performance Indicator (KPI)** – Calculating and displaying summary statistics like Total Employees (1470) and Total Attrition (237). <br>
 6.**Advanced Data Filtering** – Applying specific context filters for visualization (e.g., creating a visual for the TOP 4 job roles in attrition). <br>
