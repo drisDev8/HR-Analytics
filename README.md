@@ -40,13 +40,13 @@ Analysis Approach:
 # 🧠Skills Gained
 Through this case study, I gained hands-on experience in:
 
-1. **Data Cleaning** – removing duplicates (EmpID), replacing values (BusinessTravel), and checking Data Type.
-2.**Measure Creation** – Calculating critical business metrics like Attrition Rate (Total Attrition/Total Employees).
-3. **Calculated Column** Creation – Implementing AttritionCount for card visuals, requiring data type conversion from Text to Whole Number.
-4.**Data Transformation** – Standardizing categorical data values, specifically replacing TravelRarely with Travel_Rarely.
-5.**Key Performance Indicator (KPI)** – Calculating and displaying summary statistics like Total Employees (1470) and Total Attrition (237).
-6.**Advanced Data Filtering** – Applying specific context filters for visualization (e.g., creating a visual for the TOP 4 job roles in attrition).
-7.**Visual Design & Charting** – Creating effective visualizations like Area Charts (Attrition by Years at Company) and Bar Charts.
+1. **Data Cleaning** – removing duplicates (EmpID), replacing values (BusinessTravel), and checking Data Type. <br>
+2.**Measure Creation** – Calculating critical business metrics like Attrition Rate (Total Attrition/Total Employees). <br>
+3. **Calculated Column** Creation – Implementing AttritionCount for card visuals, requiring data type conversion from Text to Whole Number. <br>
+4.**Data Transformation** – Standardizing categorical data values, specifically replacing TravelRarely with Travel_Rarely. <br>
+5.**Key Performance Indicator (KPI)** – Calculating and displaying summary statistics like Total Employees (1470) and Total Attrition (237). <br>
+6.**Advanced Data Filtering** – Applying specific context filters for visualization (e.g., creating a visual for the TOP 4 job roles in attrition). <br>
+7.**Visual Design & Charting** – Creating effective visualizations like Area Charts (Attrition by Years at Company) and Bar Charts. <br>
 8.**Business Insight Interpretation** – Translating dashboard metrics into actionable business recommendations (e.g., addressing low salary and tenure-specific retention issues).
 
 ## 👤About Me
