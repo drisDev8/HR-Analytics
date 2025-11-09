@@ -1,1 +1,1 @@
-# HR-Analytics Dashbaord
+# HR Analytics Dashbaord
