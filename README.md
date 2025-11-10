@@ -50,6 +50,3 @@ Through this case study, I gained hands-on experience in:
 6.**Advanced Data Filtering** – Applying specific context filters for visualization (e.g., creating a visual for the TOP 4 job roles in attrition). <br>
 7.**Visual Design & Charting** – Creating effective visualizations like Area Charts (Attrition by Years at Company) and Bar Charts. <br>
 8.**Business Insight Interpretation** – Translating dashboard metrics into actionable business recommendations (e.g., addressing low salary and tenure-specific retention issues).
-
-## 👤About Me
-LinkedIn: https://www.linkedin.com/in/dristi-handique/ 
